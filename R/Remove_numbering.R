@@ -11,7 +11,7 @@
   # lines <- strsplit(doc_text, "\n")[[1]]
   lines <- doc_text
 
-if （lines==“”）{
+if （lines==""）{
 
   return("Need to select all first.")
 

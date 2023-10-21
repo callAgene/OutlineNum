@@ -14,9 +14,10 @@ Add_numbering <- function() {
   # Initialize variables to track header levels
   header_levels <- rep(0, 10)  # Assuming a maximum of 10 header levels
 
-# if ( sum(lines!="") == 0 ){
-#  return("Need to select all first.")
-# } else {
+if ( sum(lines!="") == 0 ){
+  rstudioapi::modifyRange(lines)
+  return("Need to select all first.")
+} else {
 
   # Process each line
   for (line in lines) {
@@ -60,4 +61,4 @@ Add_numbering <- function() {
   rstudioapi::modifyRange(new_text)
   return("Header numbering added successfully.")
 }
-# }
+}

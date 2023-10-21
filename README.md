@@ -14,8 +14,7 @@ OutlineNum is currently available for installation via GitHub. You can install i
 
 ```R
 remotes::install_github("callAgene/OutlineNum")
-
-
+```
 
 ## Usage
 To use the OutlineNum addin, please follow these steps:
@@ -25,9 +24,14 @@ To use the OutlineNum addin, please follow these steps:
 - Select all the text in your document by pressing Ctrl+A (Windows/Linux) or Command+A (macOS).
 
 - Navigate to the "Addins" menu in RStudio.
+![Addins](./vignettes/1.png)
 
 - Choose either "Add numbering" or "Remove numbering" from the list of available addins.
+![Add numbering OR Remove numbering](./vignettes/2.png)
 
 Your document's headers will be numbered or have numbering removed based on your selection.
+
+
+
 
 

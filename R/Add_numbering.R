@@ -1,7 +1,7 @@
 # Define the function to number headers in non-chunk areas
 Add_numbering <- function() {
   # Get the active document's text
-  doc_text <- rstudioapi::getActiveDocumentContext()$selection # $contents
+  doc_text <- rstudioapi::getActiveDocumentContext()$contents # $selection #  
   
   # Initialize variables for header numbering
   new_lines <- character(0)

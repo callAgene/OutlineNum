@@ -12,7 +12,7 @@
   lines <- doc_text
 
 if ( sum(lines!="") == 0 ){
-
+  rstudioapi::modifyRange(lines)
   return("Need to select all first.")
 
 } else {

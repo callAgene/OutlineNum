@@ -27,7 +27,7 @@ To use the OutlineNum addin, please follow these steps:
 <img src="./vignettes/1.png" width="50%" height="50%">
 
 - Choose either "Add numbering" or "Remove numbering" from the list of available addins.
-<img src="./vignettes/2.png" width="50%" height="50%">
+<img src="./vignettes/2.png" width="80%" height="80%">
 
 Your document's headers will be numbered or have numbering removed based on your selection.
 

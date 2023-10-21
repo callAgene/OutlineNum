@@ -21,7 +21,7 @@ To use the OutlineNum addin, please follow these steps:
 
 - Open RStudio and load your document.
 
-- Select all the text in your document by pressing Ctrl+A (Windows/Linux) or Command+A (macOS).
+- Select <span style="color: red; font-weight: bold;">all</span> the text in your document by pressing Ctrl+A (Windows/Linux) or Command+A (macOS).
 
 - Navigate to the "Addins" menu in RStudio.
 <img src="./vignettes/1.png" width="50%" height="50%">

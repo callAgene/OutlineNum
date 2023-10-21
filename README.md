@@ -1,4 +1,4 @@
-# RStudio Addin: OutlineNum
+# RStudio Addin: OutlineNum for RMarkdown headers/outline
 
 **OutlineNum** is an RStudio addin for adding and removing numbering from headers/outline in your R Markdown.
 

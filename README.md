@@ -25,6 +25,7 @@ To use the OutlineNum addin, please follow these steps:
 
 - Navigate to the "Addins" menu in RStudio.
 ![Addins](./vignettes/1.png)
+<img src="./vignettes/1.png" width="300" height="200">
 
 - Choose either "Add numbering" or "Remove numbering" from the list of available addins.
 ![Add numbering OR Remove numbering](./vignettes/2.png)

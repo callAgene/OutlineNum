@@ -14,7 +14,7 @@ Add_numbering <- function() {
   # Initialize variables to track header levels
   header_levels <- rep(0, 10)  # Assuming a maximum of 10 header levels
 
-if （lines==""）{
+if (lines==""){
 
   return("Need to select all first.")
 

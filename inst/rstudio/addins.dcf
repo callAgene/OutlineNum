@@ -1,0 +1,11 @@
+Name: Add numbering
+Description: Number headers to header/outline based on their level
+Binding: Add_numbering
+Interactive: true
+
+
+Name: Remove numbering
+Description: Remove the number from header/outline
+Binding: Remove_numbering
+Interactive: true
+

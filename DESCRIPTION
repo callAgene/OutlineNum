@@ -1,0 +1,9 @@
+Package: OutlineNum
+Type: RStudio Addin
+Title: Number Headers Plugin
+Version: 0.1.0
+Description: This is a plugin for adding or removing header/outline numbering in Rstudio.
+License: MIT License
+Encoding: UTF-8
+RoxygenNote: 7.2.3
+Author: bingzhang

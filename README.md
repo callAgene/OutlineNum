@@ -1,6 +1,6 @@
 # RStudio Addin: OutlineNum
 
-**OutlineNum** is an RStudio addin for adding and removing numbering from headers in your R Markdown and plain text documents.
+**OutlineNum** is an RStudio addin for adding and removing numbering from headers/outline in your R Markdown.
 
 ## Features
 
@@ -24,10 +24,10 @@ To use the OutlineNum addin, please follow these steps:
 - Select all the text in your document by pressing Ctrl+A (Windows/Linux) or Command+A (macOS).
 
 - Navigate to the "Addins" menu in RStudio.
-<img src="./vignettes/1.png" width="200" height="160">
+<img src="./vignettes/1.png" width="50%" height="50%">
 
 - Choose either "Add numbering" or "Remove numbering" from the list of available addins.
-<img src="./vignettes/2.png" width="400" height="200">
+<img src="./vignettes/2.png" width="50%" height="50%">
 
 Your document's headers will be numbered or have numbering removed based on your selection.
 

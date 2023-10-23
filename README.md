@@ -26,7 +26,7 @@ To use the OutlineNum addin, please follow these steps:
 - Navigate to the "Addins" menu in RStudio.
 <img src="./vignettes/1.png" width="50%" height="50%">
 
-- Choose either "Add numbering" or "Remove numbering" from the list of available addins.
+- Choose either "Add numbering" or "Remove numbering" from the list of available addins.(**NOTE** : The header must start with a letter, Chinese or other beginning will be removed)
 <img src="./vignettes/2.png" width="80%" height="80%">
 
 Your document's headers will be numbered or have numbering removed based on your selection.

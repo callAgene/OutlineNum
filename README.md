@@ -1,4 +1,4 @@
-# OutlineNum: numbering for RMarkdown headers/outline in RStudio
+# OutlineNum: Automatically number sections for RMarkdown headers/outline in RStudio
 
 **OutlineNum** is an RStudio addin for adding and removing numbering from headers/outline in your R Markdown in RStudio.
 
